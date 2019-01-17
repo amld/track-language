@@ -22,7 +22,7 @@
 
 #### [Building an on-device voice assistant with Snips](https://www.appliedmldays.org/workshops/building-an-on-device-voice-assistant-with-snips)
 
-#### [Reinforcement Learning - Natural language Processing - Sentiment analysis - NLTK][https://www.appliedmldays.org/workshops/machine-learning-in-finance]
+#### [Reinforcement Learning - Natural language Processing - Sentiment analysis - NLTK](https://www.appliedmldays.org/workshops/machine-learning-in-finance)
 14:30 - 16:00 January 27
 
 #### [The Future of Digital Assistants - Hype vs. Reality](https://www.appliedmldays.org/workshops/waitalk-event-the-future-of-digital-assistants-hype-vs-reality)
