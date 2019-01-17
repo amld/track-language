@@ -6,18 +6,15 @@
 
 [appliedmldays.org/tracks/8](https://www.appliedmldays.org/tracks/8)
 
-## Other language-related workshops and talks at AMLD 2019
+<details><summary><strong>Other language-related workshops and talks at AMLD 2019</strong></summary>
 
-<details><summary><strong>About transliteration</strong></summary>
-
-[Document Digitization Challenge](https://www.appliedmldays.org/workshops/document-digitization-challenge)
+#### [Document Digitization Challenge](https://www.appliedmldays.org/workshops/document-digitization-challenge)
 09:00-16:30 January 26
 
 #### [Applied Language Technologies](https://www.appliedmldays.org/workshops/applied-language-technologies)
 13:30-16:30 January 26
 
-#### [Machine Learning for fake news detection: theory and practice
-](https://www.appliedmldays.org/workshops/machine-learning-for-fake-news-detection-theory-and-practice)
+#### [Machine Learning for fake news detection: theory and practice](https://www.appliedmldays.org/workshops/machine-learning-for-fake-news-detection-theory-and-practice)
 09:00-16:30 January 27
 
 #### [Multilingual word alignment](https://www.appliedmldays.org/workshops/advances-in-ml-theory-meets-practice)
