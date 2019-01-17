@@ -1,8 +1,8 @@
+# AI & Language
+
 ***git repo** for the **[AI & Language Track](https://www.appliedmldays.org/tracks/8)** of [Applied Machine Learning Days](https://www.appliedmldays.org/) 2019*
 
 *View and edit the repo at [**github.com/amld/track-language/**](https://github.com/amld/track-language/)*
-
-# AI & Language
 
 <details><summary><strong>Other language-related workshops and talks at AMLD 2019</strong></summary>
 
