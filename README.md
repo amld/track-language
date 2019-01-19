@@ -29,11 +29,14 @@ Half-day: 13:30-16:30 January 27
 #### AI & Language
 13:30-17:00 January 28
 
+#### [A Pragmatic View on Language Technologies]
+13:30-13:40 January 28 · with Kornelia Papp
+
 #### [What Do You Think? - Language Models for Snippet Extraction from News Article Comments](https://www.appliedmldays.org/tracks/10)
-16:00-16:10 January 28
+16:00-16:10 January 28 · with Tim Nonner
 
 #### [The Future of Digital Assistants - Hype vs. Reality](https://www.appliedmldays.org/workshops/waitalk-event-the-future-of-digital-assistants-hype-vs-reality)
-17:00-20:00 January 28
+17:00-20:00 January 28 
 
 #### [Natural Language Processing in Finance](https://www.appliedmldays.org/tracks/4)
 09:10-09:45 January 29 · with Armando Gonzalez
