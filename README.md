@@ -29,7 +29,7 @@ Half-day: 13:30-16:30 January 27
 #### AI & Language
 13:30-17:00 January 28
 
-#### [A Pragmatic View on Language Technologies]
+#### [A Pragmatic View on Language Technologies](https://www.appliedmldays.org/tracks/6)
 13:30-13:40 January 28 · with Kornelia Papp
 
 #### [What Do You Think? - Language Models for Snippet Extraction from News Article Comments](https://www.appliedmldays.org/tracks/10)
