@@ -52,7 +52,10 @@ Half-day: 13:30-16:30 January 27
 
 </details>
 
-## Presentations
+## AI & Language track
+The language-focused track will take place 13:30 to 17:00 on January 28.
+
+<details><summary><strong>Schedule and links to presentations</strong></summary>
 
 #### Learning representations with self-attention
 
@@ -122,3 +125,4 @@ Half-day: 13:30-16:30 January 27
 
 16:40-17:00 January 28 · with Nicolas Perony, Lars Maaløe, João Graça, Michele Sama, Joern Wuebker, Ines Montani
 
+</details>
